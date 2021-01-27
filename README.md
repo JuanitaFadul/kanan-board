@@ -1,4 +1,4 @@
-# kanan-board
+# kanban-board
 
 ## [See Live](https://juanitafadul.github.io/kanan-board/)
 
